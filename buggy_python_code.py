@@ -1,5 +1,3 @@
-import sys 
-import os
 import urllib3 as urllib
 import yaml
 import flask
