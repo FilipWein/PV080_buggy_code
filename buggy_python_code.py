@@ -1,4 +1,3 @@
-import urllib3 as urllib
 import yaml
 import flask
 
